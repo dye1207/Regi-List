@@ -1,0 +1,11 @@
+{
+  "regis": [
+    {
+      "name": "김동원",
+      "age": "29",
+      "address": "서울시",
+      "checked": true,
+      "id": 1
+    }
+  ]
+}
